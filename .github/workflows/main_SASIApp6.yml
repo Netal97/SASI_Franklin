@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'SASIApp6'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d42257f00a654833b8871b60560ac54b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3ab7a5f8152a4ca1910b19f5b68b9ad9 }}
         package: '*.jar'
